@@ -1,7 +1,9 @@
- language: python
+  language: python
+
   python:
-    - "3.6"
+     - "3.6"
+
   script:
-    - utest.py
+     - python utest.py
 
 
